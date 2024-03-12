@@ -19,6 +19,11 @@
     "target": "ES2022",
     "module": "ES2022",
     "useDefineForClassFields": false,
+    "paths": {
+      "tic-tac-toe": [
+        "./dist/tic-tac-toe"
+      ]
+    },
     "lib": [
       "ES2022",
       "dom"
